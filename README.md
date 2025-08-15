@@ -14,5 +14,5 @@
 
 
 ## Projemde kullandığım referanslar:
-> Kod parçaları: [Quantum bilgisayar botu](https://github.com/denizdagli/QuantumComputingChatbot)
-> Bota verilen bilgiler: [IPCC Altıncı Değerlendirme Raporu (2023)](https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_FullVolume.pdf)
+-Kod parçaları: [Quantum bilgisayar botu](https://github.com/denizdagli/QuantumComputingChatbot)
+-Bota verilen bilgiler: [IPCC Altıncı Değerlendirme Raporu (2023)](https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_FullVolume.pdf)
