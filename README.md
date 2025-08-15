@@ -15,5 +15,5 @@
 
 ## Projemde kullandığım referanslar:
 - Kod parçaları: [Quantum bilgisayar botu ( Deniz Dağlı tarafından )](https://github.com/denizdagli/QuantumComputingChatbot)
-- Bota verilen bilgiler: [Wikipedia - İklim değişikliği](https://tr.wikipedia.org/wiki/İklim_değişikliği)
+- Bota verilen bilgiler: (Kesinleştiğinde yazıcam!)
   
