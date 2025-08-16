@@ -5,12 +5,28 @@
 >  Unutma iklim değişikliliğinin etkili sebeplerinden olan biz insanlar bilinçlenmeli ve dünyamızı korumalıyız.
 
 ## Nasıl Çalışır?
->
+1. [ Api key sayfası ](https://aistudio.google.com/apikey) burdan Gemini 2.0-Flash için api key alın
+2.  ".env" adında bir dosya oluşturun
+   ```
+.
+├── app.py
+├── .env
+├── bilgi.pdf
+└── chroma_db/
+```
+ve
+   `GOOGLE_API_KEY=                                                                   ` yazıp api'nizi yapıştırın
+   
+   
+3. Terminal'e gelip
+   `Streamlit run app.py` yazın ve taracınızdaki sayfadan botu kullanabilirsiniz.
 
 
-## Projenin yapımında hangi kütüphanelerden yararlandım?
->
-
+## Projenin yapımında hangi teknik materyallerden yararlandım?
+- Langchain
+- Google Generative AI(Gemini)
+- Chroma DB
+- Streamlit
 
 
 ## Projemde kullandığım referanslar:
